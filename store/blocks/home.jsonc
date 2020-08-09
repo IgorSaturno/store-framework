@@ -3,7 +3,9 @@
     "blocks": [
       "rich-text",
       "info-card#button-left",
-      "info-card#button-right"
+      "info-card#button-right",
+      "flex-layout.row",
+      "shelf"
     ]
   },
   "rich-text": {
