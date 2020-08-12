@@ -8,13 +8,12 @@
     ]
   },
 
-  "flex-layout.row":{
-    "children": [
-      "info-card#rethink",
-      "flex-layout.col"
-    ]
-  },
-  
+    "flex-layout.row":{
+      "children": [
+        "info-card#rethink",
+        "flex-layout.col"
+      ]
+    },
   
   "info-card#rethink": {
     "props": {
